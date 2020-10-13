@@ -1,3 +1,4 @@
+TEST
 # ScheduleTourService
 
 Module used to review and schedule a home tour on Bluefin, a Refin clone.
